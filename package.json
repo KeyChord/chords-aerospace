@@ -1,3 +1,7 @@
 {
-  "name": "@keychord/chords-aerospace"
+  "name": "@keychord/chords-aerospace",
+  "type": "module",
+  "devDependencies": {
+    "@keychord/config": "catalog:"
+  }
 }
