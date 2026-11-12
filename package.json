@@ -1,0 +1,18 @@
+{
+  "name": "@keychord/chords-aerospace",
+  "displayName": "AeroSpace Chords",
+  "description": "Global chords that run commands for the AeroSpace tiling window manager.",
+  "categories": [
+    "Window Management"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeyChord/chords-aerospace"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@keychord/chordtest": "workspace:*",
+    "@keychord/config": "catalog:"
+  },
+  "packageManager": "pnpm@12.11.2"
+}
